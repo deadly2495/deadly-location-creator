@@ -1,4 +1,4 @@
-# DEADLY LOCATION CREATOR
+# DEADLY BLIPS
 Fivem Blip/Locatioin Creator Helper by DEADLY PARASITE
 
 # [Tebex ](https://redevelopmentstudios.tebex.io) <br>
