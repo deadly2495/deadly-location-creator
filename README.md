@@ -1,5 +1,5 @@
 # DEADLY BLIPS
-Fivem Blip/Locatioin Creator Helper by DEADLY PARASITE
+Fivem Blip/Locatioin Creator by DEADLY PARASITE
 
 # [Tebex ](https://redevelopmentstudios.tebex.io) <br>
 # [Development Discord  ](https://discord.gg/YbxM3h39J4) <br>
