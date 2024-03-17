@@ -1,2 +1,2 @@
 # REDEVELOPMENT-STUDIOS
-SCRIPTS AND MLOS
+Fivem Blip/Locatioin Creator Helper by DEADLY PARASITE
